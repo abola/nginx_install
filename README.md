@@ -5,7 +5,7 @@
 ```bash
 sudo git clone https://github.com/abola/nginx_install.git
 sudo cd nginx_install
-sudo sh nginx-1.8.1-for-centos-6.8.sh
+sudo sh nginx-1.8.1-for-centos-6.x.sh
 ```
 
 # 相關路徑
